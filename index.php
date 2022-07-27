@@ -9,16 +9,17 @@
 
 </head>
 <body>
-
-	<div class="page_container">
-		<div class="menu_top">
-		<img src="logo.png"/>
+	<?php 
+	echo "<div class='page_container'>
+		<div class='menu_top'>
+		<img src='logo.png'/>
 		</div>
-		<div class="content-section">
+		<div class='content-section'>
 			<h1>Escape room experience at home</h1>
 			<h2>RENT</h2>
 		</div>
-	</div>
+	</div>"
+	?>
   
 	
   
