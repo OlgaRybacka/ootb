@@ -1,0 +1,30 @@
+
+:root {
+	--dark-blue: #0081a7;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+	color: white;
+}
+
+body {
+	margin: 0;
+	background-color:black;
+}
+
+.page_container {
+	min-height: 100vh;
+	margin: 0 auto;
+}
+
+
+.menu_top {
+	width: 100%;
+	background-color: white;
+}
+
+.menu_top img {
+	width: 50%;
+	padding: 1em;
+}
